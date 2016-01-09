@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neethi-2.0.4.wso2v3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/neethi-2.0.4.wso2v3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

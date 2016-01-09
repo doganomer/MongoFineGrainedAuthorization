@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-io-2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/neethi-2.0.4.wso2v3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.wso2.securevault-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/XmlSchema-1.4.7.wso2v1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

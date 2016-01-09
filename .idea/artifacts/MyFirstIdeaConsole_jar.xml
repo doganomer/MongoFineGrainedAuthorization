@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyFirstIdeaConsole:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyFirstIdeaConsole_jar</output-path>
+    <root id="archive" name="MyFirstIdeaConsole.jar">
+      <element id="module-output" name="MongoDatabaseProxy" />
+      <element id="module-output" name="PDPCommunicator" />
+      <element id="module-output" name="XacmlLibrary" />
+      <element id="module-output" name="MongoFineGrainedAuthorization" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mongo-java-driver-2.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/axis2-1.6.1.wso2v4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/groovy-all-2.3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/neethi-2.0.4.wso2v3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mongodb-driver-core-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.wso2.securevault-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-codec-1.3.0.wso2v1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-httpclient-3.1.0.wso2v1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mongodb-driver-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/axiom-1.2.11.wso2v1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/XmlSchema-1.4.7.wso2v1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/bson-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/wsdl4j-1.6.2.wso2v2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.wso2.carbon.identity.entitlement.stub_4.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/httpcore-4.1.0.wso2v1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

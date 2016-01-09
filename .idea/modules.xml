@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MongoDatabaseProxy/MongoDatabaseProxy.iml" filepath="$PROJECT_DIR$/MongoDatabaseProxy/MongoDatabaseProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MongoFineGrainedAuthorization.iml" filepath="$PROJECT_DIR$/MongoFineGrainedAuthorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDPCommunicator/PDPCommunicator.iml" filepath="$PROJECT_DIR$/PDPCommunicator/PDPCommunicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XacmlLibrary/XacmlLibrary.iml" filepath="$PROJECT_DIR$/XacmlLibrary/XacmlLibrary.iml" />
+    </modules>
+  </component>
+</project>
