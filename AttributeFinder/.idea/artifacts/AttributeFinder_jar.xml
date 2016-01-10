@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AttributeFinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AttributeFinder_jar</output-path>
+    <root id="archive" name="AttributeFinder.jar">
+      <element id="module-output" name="AttributeFinder" />
+    </root>
+  </artifact>
+</component>
